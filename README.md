@@ -1,4 +1,4 @@
-# Analysis of Amazon review sentiment 
+# Amazon review sentiment Analysis
 
 this dataset contains details of the reviews for few products sold by amazon 
 
